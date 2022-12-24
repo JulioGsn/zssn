@@ -1,6 +1,8 @@
 # ZSSN
 
-## Problem Description (Based on https://github.com/nayra0/backend-test/blob/master/README.md)
+## Problem Description 
+
+(Problem based on https://github.com/nayra0/backend-test/blob/master/README.md)
 
 ZSSN (Zombie Survival Social Network). The world as we know it has fallen into an apocalyptic scenario. A laboratory-made virus is transforming human beings and animals into zombies, hungry for fresh flesh.
 
